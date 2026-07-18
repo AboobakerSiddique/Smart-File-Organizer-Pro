@@ -115,7 +115,8 @@ SmartFileOrganizer/
 
 ## Screenshots
 
-*(placeholder — add screenshots of the console output and organized Downloads folder here)*
+
+(thumbnail.png)
 
 ---
 
