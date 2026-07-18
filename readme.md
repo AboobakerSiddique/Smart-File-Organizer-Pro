@@ -60,6 +60,9 @@ This drops a small launcher script into your Windows Startup folder. To remove i
 call `unregister_startup()` from the same file.
 
 ---
+## 🎥 Project Demo
+
+[![Watch Demo](thumbnail.png)](./demo.mp4)
 
 ## Folder Structure
 
