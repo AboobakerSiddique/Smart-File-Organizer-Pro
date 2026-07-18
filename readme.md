@@ -116,7 +116,9 @@ SmartFileOrganizer/
 ## Screenshots
 
 
-(thumbnail.png)
+
+![Watch Demo](thumbnail.png)
+
 
 ---
 
